@@ -63,6 +63,10 @@ This project sets up a register-based, state-driven USART communication pipeline
 * **Safe Null-Terminated Buffering:** `strRecieve()` prevents buffer overflows up to `MAX_BUFFER_LENGTH` (200 bytes) and correctly sets `RxMessageLength` when receiving `\0` to trigger state transitions safely.
 
 ## BRR register equation : (for USART2) 
+<img width="1920" height="1080" alt="BRR register equation" src="https://github.com/user-attachments/assets/dd130d3d-8462-4b28-9a04-59681deccc70" />
 
 ##  Simulation video of transferring DATA (using hterm software as a Serial Terminal interface PC to communicate with the STM32F446RE):
+
+https://github.com/user-attachments/assets/48b0db87-9bd2-40eb-92e4-49584a97df06
+
 

@@ -64,6 +64,9 @@ This project sets up a register-based, state-driven USART communication pipeline
 
 ## BRR register equation : (for USART2) 
 <img width="1920" height="1080" alt="BRR register equation" src="https://github.com/user-attachments/assets/dd130d3d-8462-4b28-9a04-59681deccc70" />
+## Simulation using hterm software as a Serial Terminal interface :
+<img width="496" height="802" alt="Capture d’écran (1622)" src="https://github.com/user-attachments/assets/9c366096-4665-4f69-87f8-5e0dd9627040" />
+<img width="643" height="785" alt="Capture d’écran (1623)" src="https://github.com/user-attachments/assets/168407f5-e9ce-42cc-8a34-a211b0318e91" />
 
 ##  Simulation video of transferring DATA (using hterm software as a Serial Terminal interface PC to communicate with the STM32F446RE):
 

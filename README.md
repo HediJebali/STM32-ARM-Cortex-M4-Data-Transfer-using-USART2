@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5ccacf26-2574-4f1c-91fb-0333c1fe2200
 # Project : STM32 ARM Cortex-M4 Data Transfer using USART2 
 
 This project sets up a bare-metal, interrupt-driven USART2 communication interface on an STM32F446RE microcontroller to handle bidirectional text-based data transfer with a PC serial terminal (HTerm) and control onboard/external LEDs based on command validation:
@@ -67,6 +69,12 @@ This project sets up a register-based, state-driven USART communication pipeline
 
 ##  Simulation video of transferring DATA (using hterm software as a Serial Terminal interface PC to communicate with the STM32F446RE):
 
-https://github.com/user-attachments/assets/48b0db87-9bd2-40eb-92e4-49584a97df06
+
+
+
+https://github.com/user-attachments/assets/5d236252-b898-4f6f-bec3-010a376e1da9
+
+
+
 
 
